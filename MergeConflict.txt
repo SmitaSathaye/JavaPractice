@@ -6,3 +6,5 @@ Add merges to create conflict.
 
 **********
 */
+Adding new line 2 create conflict in master.
+
