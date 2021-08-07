@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-18T15:30:20 IST" name="Default suite" finished-at="2021-07-18T15:30:47 IST" duration-ms="27149">
+    <groups>
+    </groups>
+    <test started-at="2021-07-18T15:30:20 IST" name="Default test" finished-at="2021-07-18T15:30:47 IST" duration-ms="27149">
+      <class name="MavenAssignments.MavenJava.OcrDetails_POMWay">
+        <test-method signature="Login()[pri:0, instance:MavenAssignments.MavenJava.OcrDetails_POMWay@49c386c8]" started-at="2021-07-18T15:30:20 IST" name="Login" finished-at="2021-07-18T15:30:47 IST" duration-ms="27112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- MavenAssignments.MavenJava.OcrDetails_POMWay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
