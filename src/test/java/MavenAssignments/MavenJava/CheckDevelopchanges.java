@@ -59,9 +59,6 @@ public class TryJSON {
 	}
 	
 	
-	/* Add this note to check the difference between 2 branches in Git*/
-	
-	
 	
 /*	@BeforeClass
 	void setup()
